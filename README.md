@@ -8,3 +8,4 @@ Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics
 3. [Optimizing the Classification Threshold in Logistic Regression](https://github.com/dg7s/Machine-Learning/blob/main/hw/Optimizing_the_Classification_Threshold_in_Logistic_Regression.ipynb)
 4. [Analyzing and Plotting Bias in Penalized Regression](https://github.com/dg7s/Machine-Learning/blob/main/hw/Analyzing_and_Plotting_Bias_in_Penalized_Regression.ipynb)
 5. [Polynomial Kernel SVM in 3D Feature Space](https://github.com/dg7s/Machine-Learning/blob/main/hw/Polynomial_Kernel_SVM_in_3D_Feature_Space.ipynb)
+6. [Understanding Splitting Criteria in CART for Regression](https://github.com/dg7s/Machine-Learning/blob/main/hw/Understanding_Splitting_Criteria_in_CART_for_Regressionce.ipynb)
