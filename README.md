@@ -14,3 +14,4 @@ Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics
 9. [Neural Network Dreams](https://github.com/dg7s/Machine-Learning/blob/main/hw/Neural_Network_Dreams.ipynb)
 10. [Adversarial Examples: Fooling LeNet-5](https://github.com/dg7s/Machine-Learning/blob/main/hw/Adversarial_Examples_Fooling_LeNet_5.ipynb)
 11. [Understanding Deconvolution in Autoencoders](https://github.com/dg7s/Machine-Learning/blob/main/hw/Understanding_Deconvolution_in_Autoencoders.ipynb)
+12. [Semantic Vector Relationships](https://github.com/dg7s/Machine-Learning/blob/main/hw/Semantic_Vector_Relationships.ipynb)
