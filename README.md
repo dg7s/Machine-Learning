@@ -15,3 +15,4 @@ Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics
 10. [Adversarial Examples: Fooling LeNet-5](https://github.com/dg7s/Machine-Learning/blob/main/hw/Adversarial_Examples_Fooling_LeNet_5.ipynb)
 11. [Understanding Deconvolution in Autoencoders](https://github.com/dg7s/Machine-Learning/blob/main/hw/Understanding_Deconvolution_in_Autoencoders.ipynb)
 12. [Semantic Vector Relationships](https://github.com/dg7s/Machine-Learning/blob/main/hw/Semantic_Vector_Relationships.ipynb)
+13. [Finding Odd Shapes: Attention](https://github.com/dg7s/Machine-Learning/blob/main/hw/Finding_Odd_Shapes.ipynb)
